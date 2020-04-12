@@ -126,6 +126,7 @@ export default {
             break;
           case 'stopCallback':
             app.playSound();
+            worker.terminate();
 
             setTimeout(() => {
               app.started = false;
