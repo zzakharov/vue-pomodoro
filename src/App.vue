@@ -168,7 +168,7 @@ export default {
 </script>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap&text=0123456789:pomdr');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap&text=0123456789:Pomdr');
 
 .timer-wrapper {
   font-family: Roboto, Helvetica, Arial, sans-serif;
